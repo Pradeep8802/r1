@@ -1,3 +1,3 @@
 'this is page A, now we did second commit'
 
-' We now try pull push  fetch '
+'This is local\'s 3rd comment'
