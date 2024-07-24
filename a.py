@@ -1,1 +1,3 @@
-'this is page A, first commit'
+'this is page A, now we did second commit'
+
+' We now try pull push  fetch '
