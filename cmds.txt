@@ -1,0 +1,6 @@
+1.Make a local git folder
+-> git init (empty repo)
+        OR
+-> git clone https://github.com/<......>.git (clone existing repo)
+
+
