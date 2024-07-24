@@ -1,3 +1,11 @@
+
+The purpose of gitignore files is to ensure that certain files not tracked by Git remain untracked. To stop tracking a file that is currently tracked, use git rm --cached to remove the file from the index.
+The Git index is a critical data structure in Git. It serves as the “staging area” between the files you have on your filesystem and your commit history. When you run git add , the files from your working directory are hashed and stored as objects in the index, leading them to be “staged changes”
+
+
+
+===========================================
+
 1.Make a local git folder
 -> git init (empty repo)
         OR
