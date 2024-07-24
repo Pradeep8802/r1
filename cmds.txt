@@ -2,5 +2,11 @@
 -> git init (empty repo)
         OR
 -> git clone https://github.com/<......>.git (clone existing repo)
+2. All the new files would be Untacked (Untacked)
+    tracke a file -> git add -A <file_name>
+    track all files -> git add .
+    Now they reach stagged state
+3. (use "git restore --staged <file>..." to unstage)
+4. git commit -m "<your_commit>"
 
 
